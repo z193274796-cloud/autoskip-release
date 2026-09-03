@@ -1,1 +1,1 @@
-{"versionCode":7,"versionName":"1.5","sha256":"305bc612b677ffafead2174e5d5dc1e449d0b6add1be44a76a6f202e45f22891","apk":"https://raw.githubusercontent.com/z193274796-cloud/autoskip-release/main/app/autoskip-v1.5.apk","notes":"公开发布版，更新无需令牌"}
+{"versionCode":8,"versionName":"1.5.1","sha256":"3e805433e74643395f7ff239b05d874de89355502e0e65439856996cbf6d333d","apk":"https://raw.githubusercontent.com/z193274796-cloud/autoskip-release/main/app/autoskip-v1.5.1.apk","notes":"修复：开启无障碍后按返回被自动点回设置页的问题（系统界面永不自动点击）"}
