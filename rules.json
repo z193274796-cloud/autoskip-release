@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 4,
   "skipText": ["跳过", "skip", "关闭广告", "跳过广告"],
   "denyText": ["请勿跳过", "不要跳过", "无法跳过"],
   "countdown": "\\d{1,3}(s|秒)",
